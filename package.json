@@ -1,0 +1,21 @@
+{
+    "name": "amadeus-dark-theme",
+    "displayName": "amadeus dark theme",
+    "description": "A Material based dark theme by Guillermo Brachetta",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Amadeus Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Amadeus Dark-color-theme.json"
+            }
+        ]
+    }
+}
