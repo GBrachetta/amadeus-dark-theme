@@ -27,3 +27,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.5
 
 - Replaced image for marketplace
+
+## 0.0.6
+
+- Added Amadeus Dark Cobalt variant
