@@ -4,6 +4,11 @@ All notable changes to the "amadeus-dark-theme" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## 0.0.1
 
 - Initial release
+
+## 0.0.2
+
+- Improved color of border focus
+- Added icon

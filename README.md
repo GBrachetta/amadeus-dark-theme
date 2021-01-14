@@ -1,13 +1,20 @@
-# README
-## This is the README for your extension "amadeus-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# AMADEUS DARK: a VS Code Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A theme by [Guillermo Brachetta](https://github.com/GBrachetta) for VS Code.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Theme example](images/theme-1.png)
+
+## Installation
+
+1. Open the extensions sidebar on Visual Studio Code
+1. Search for Amadeus Dark Theme
+1. Click Install
+1. Click Reload to reload your editor
+1. Select the Manage Cog (bottom left) > Color Theme ＞ Amadeus Dark Theme
+1. Please rate it with ⭐️⭐️⭐️⭐️⭐️ if you enjoy it!
+
+## Issues & Suggestions
+
+For any issues or suggestions, please use [GitHub issues](https://github.com/GBrachetta/amadeus-dark-theme/issues).
 
 **Enjoy!**
