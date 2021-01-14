@@ -2,7 +2,7 @@
 
 A theme by [Guillermo Brachetta](https://github.com/GBrachetta) for VS Code.
 
-![Theme example](images/theme-1.png)
+![Theme example](./images/theme-1.png)
 
 ## Installation
 

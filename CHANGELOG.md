@@ -19,3 +19,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Properly linted and formatted json file
 - Formatted theme name
 - Modified colors of diffchecker
+
+## 0.0.4
+
+- Properly linked image
