@@ -11,7 +11,7 @@ A theme by [Guillermo Brachetta](https://github.com/GBrachetta) for VS Code.
 1. Click Install
 1. Click Reload to reload your editor
 1. Select the Manage Cog (bottom left) > Color Theme ＞ Amadeus Dark Theme
-1. Please rate it with ⭐️⭐️⭐️⭐️⭐️ if you enjoy it!
+1. Please rate it with ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  if you enjoy it!
 
 ## Issues & Suggestions
 

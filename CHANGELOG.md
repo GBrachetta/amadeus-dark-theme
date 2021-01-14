@@ -12,3 +12,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Improved color of border focus
 - Added icon
+
+## 0.0.3
+
+- Improved Readme and added images
+- Properly linted and formatted json file
+- Formatted theme name
+- Modified colors of diffchecker

@@ -1,13 +1,13 @@
 {
   "name": "amadeus-dark-theme",
-  "displayName": "amadeus dark theme",
+  "displayName": "Amadeus Dark Theme",
   "description": "A Material based dark theme by Guillermo Brachetta",
   "publisher": "gbrachetta",
   "author": {
     "name": "Guillermo Brachetta",
     "email": "brachetta@me.com"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.52.0"
   },
