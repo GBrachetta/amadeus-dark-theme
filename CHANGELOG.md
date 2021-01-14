@@ -23,3 +23,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.4
 
 - Properly linked image
+
+## 0.0.5
+
+- Replaced image for marketplace
