@@ -31,3 +31,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.6
 
 - Added Amadeus Dark Cobalt variant
+
+## 0.0.7
+
+- Added Amadeus Dark Pastel variant
+- Improved selection background in main theme
+- Improved git status colors

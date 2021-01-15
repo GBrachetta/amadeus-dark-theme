@@ -2,6 +2,8 @@
   "name": "Amadeus Dark",
   "type": "dark",
   "colors": {
+    "selection.background": "#00eeff31",
+    "editor.findMatchHighlightBackground": "#06614a41",
     "activityBar.foreground": "#55a2c9",
     "activityBar.background": "#181818",
     "activityBar.activeBorder": "#ff7b00",
@@ -27,11 +29,11 @@
     "errorLens.infoForeground": "#57b6ee50",
     "errorLens.warningForeground": "#ffa60060",
     "focusBorder": "#202020",
-    "gitDecoration.addedResourceForeground": "#dfdb06",
-    "gitDecoration.deletedResourceForeground": "#b90000",
+    "gitDecoration.addedResourceForeground": "#b6b442",
+    "gitDecoration.deletedResourceForeground": "#8b2d2d",
     "gitDecoration.ignoredResourceForeground": "#3c4850",
-    "gitDecoration.modifiedResourceForeground": "#688844",
-    "gitDecoration.untrackedResourceForeground": "#c2954c",
+    "gitDecoration.modifiedResourceForeground": "#79925d",
+    "gitDecoration.untrackedResourceForeground": "#b49c75",
     "list.activeSelectionBackground": "#09a3f050",
     "list.activeSelectionForeground": "#7797a3",
     "list.hoverForeground": "#a75000",
@@ -68,7 +70,7 @@
     "terminal.ansiYellow": "#dbbe15",
     "terminal.background": "#1e242b",
     "terminal.foreground": "#dad5c1",
-    "tree.indentGuidesStroke": "#868686",
+    "tree.indentGuidesStroke": "#868686"
   },
   "tokenColors": [
     {
