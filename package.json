@@ -1,54 +1,56 @@
 {
-  "name": "amadeus-dark-theme",
-  "displayName": "Amadeus Dark Theme",
-  "description": "A Material based dark theme by Guillermo Brachetta",
-  "publisher": "gbrachetta",
-  "author": {
-    "name": "Guillermo Brachetta",
-    "email": "brachetta@me.com"
-  },
-  "version": "0.0.7",
-  "engines": {
-    "vscode": "^1.52.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GBrachetta/amadeus-dark-theme"
-  },
-  "bugs": {
-    "url": "https://github.com/GBrachetta/amadeus-dark-theme/issues"
-  },
-  "galleryBanner": {
-    "color": "#131313",
-    "theme": "dark"
-  },
-  "icon": "images/icon/icon.png",
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "Guillermo Brachetta",
-    "Amadeus Theme Dark",
-    "Dark",
-    "Graphite"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Amadeus Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/amadeus-dark-color-theme.json"
-      },
-      {
-        "label": "Amadeus Dark Cobalt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/amadeus-dark-theme-cobalt.json"
-      },
-      {
-        "label": "Amadeus Dark Pastel",
-        "uiTheme": "vs-dark",
-        "path": "./themes/amadeus-dark-theme-pastel.json"
-      }
-    ]
-  }
+    "name": "amadeus-dark-theme",
+    "displayName": "Amadeus Dark Theme",
+    "description": "A Material based dark theme by Guillermo Brachetta",
+    "publisher": "gbrachetta",
+    "author": {
+        "name": "Guillermo Brachetta",
+        "email": "brachetta@me.com"
+    },
+    "version": "0.0.8",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GBrachetta/amadeus-dark-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/GBrachetta/amadeus-dark-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#131313",
+        "theme": "dark"
+    },
+    "icon": "images/icon/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "homepage": "https://github.com/GBrachetta/amadeus-dark-theme",
+    "keywords": [
+        "Guillermo Brachetta",
+        "Amadeus Theme Dark",
+        "Dark",
+        "Graphite",
+        "Cobalt"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Amadeus Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amadeus-dark-color-theme.json"
+            },
+            {
+                "label": "Amadeus Dark Cobalt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amadeus-dark-theme-cobalt.json"
+            },
+            {
+                "label": "Amadeus Dark Pastel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amadeus-dark-theme-pastel.json"
+            }
+        ]
+    }
 }

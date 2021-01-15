@@ -37,3 +37,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added Amadeus Dark Pastel variant
 - Improved selection background in main theme
 - Improved git status colors
+
+## 0.0.8
+
+- Added marketplace badges
