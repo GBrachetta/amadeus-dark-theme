@@ -41,3 +41,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.8
 
 - Added marketplace badges
+
+## 0.0.9
+
+- Improved terminal colors in pastel variant

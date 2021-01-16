@@ -2,9 +2,9 @@
 
 A theme by [Guillermo Brachetta](https://github.com/GBrachetta) for VS Code.
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/gbrachetta.amadeus-dark-theme?logo=visual%20studio&logoColor=00acee&style=for-the-badge)
-![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/gbrachetta.amadeus-dark-theme?color=green&logo=visual%20studio&logoColor=00acee&style=for-the-badge)
-![Twitter](https://img.shields.io/badge/twitter-%40brachetta-00acee.svg?logo=twitter&style=for-the-badge)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/gbrachetta.amadeus-dark-theme?logo=visual%20studio&logoColor=00acee&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=gbrachetta.amadeus-dark-theme)
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/gbrachetta.amadeus-dark-theme?color=green&logo=visual%20studio&logoColor=00acee&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=gbrachetta.amadeus-dark-theme)
+[![Twitter](https://img.shields.io/badge/twitter-%40brachetta-00acee.svg?logo=twitter&style=for-the-badge)](https://twitter.com/brachetta)
 
 ## Main theme
 
