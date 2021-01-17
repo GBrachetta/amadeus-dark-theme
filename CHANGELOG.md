@@ -45,3 +45,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.9
 
 - Improved terminal colors in pastel variant
+
+## 0.0.10
+
+- Explicitly declared terminal colors in all variants
