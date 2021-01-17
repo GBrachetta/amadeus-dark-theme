@@ -49,3 +49,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.10
 
 - Explicitly declared terminal colors in all variants
+
+## 0.0.11
+
+- Improved Django colors for Pastel variant
