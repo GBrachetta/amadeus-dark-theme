@@ -57,3 +57,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.12
 
 - Removed wrongly placed italic style for Django
+
+## 0.0.13
+
+- Improve contrast of list items on hover in Pastel variant
+- Improve clarity of colors in Pastel variant
