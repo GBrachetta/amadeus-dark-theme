@@ -53,3 +53,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.11
 
 - Improved Django colors for Pastel variant
+
+## 0.0.12
+
+- Removed wrongly placed italic style for Django

@@ -182,8 +182,7 @@
                 "text.html.django"
             ],
             "settings": {
-                "foreground": "#d3d0bd",
-                "fontStyle": "italic"
+                "foreground": "#d3d0bd"
             }
         },
         {
