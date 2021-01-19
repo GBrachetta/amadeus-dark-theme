@@ -777,7 +777,8 @@
                 "comment.line.number-sign.python"
             ],
             "settings": {
-                "foreground": "#536b58"
+                "foreground": "#536b58",
+                "fontStyle": "italic"
             }
         },
         {

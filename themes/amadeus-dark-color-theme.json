@@ -36,7 +36,7 @@
         "gitDecoration.untrackedResourceForeground": "#b49c75",
         "list.activeSelectionBackground": "#09a3f050",
         "list.activeSelectionForeground": "#7797a3",
-        "list.hoverForeground": "#a75000",
+        "list.hoverForeground": "#ff7b00",
         "list.inactiveSelectionBackground": "#172d2f",
         "list.inactiveSelectionForeground": "#7797a3",
         "list.warningForeground": "#b48a52",
@@ -736,7 +736,8 @@
                 "string.quoted.docstring.multi.python"
             ],
             "settings": {
-                "foreground": "#5f91ad"
+                "foreground": "#5f91ad",
+                "fontStyle": "italic"
             }
         },
         {

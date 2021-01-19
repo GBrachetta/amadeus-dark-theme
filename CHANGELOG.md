@@ -62,3 +62,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Improve contrast of list items on hover in Pastel variant
 - Improve clarity of colors in Pastel variant
+
+## 0.0.14
+
+- Python docstrings are now in italics
+- Improve contrast of list items on hover
