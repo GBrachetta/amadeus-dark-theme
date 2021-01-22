@@ -67,3 +67,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Python docstrings are now in italics
 - Improve contrast of list items on hover
+
+## 0.0.15
+
+- Amadeus Dark Polar introduced

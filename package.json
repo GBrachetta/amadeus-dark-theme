@@ -7,7 +7,7 @@
         "name": "Guillermo Brachetta",
         "email": "brachetta@me.com"
     },
-    "version": "0.0.14",
+    "version": "0.0.15",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -51,6 +51,11 @@
                 "label": "Amadeus Dark Pastel",
                 "uiTheme": "vs-dark",
                 "path": "./themes/amadeus-dark-theme-pastel.json"
+            },
+            {
+                "label": "Amadeus Dark Polar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/amadeus-dark-theme-polar.json"
             }
         ]
     }
