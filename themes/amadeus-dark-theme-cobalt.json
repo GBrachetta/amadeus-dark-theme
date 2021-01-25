@@ -808,12 +808,22 @@
             }
         },
         {
-            "name": "Javascript - Objects",
+            "name": "Javascript - Objects(*)",
             "scope": [
                 "variable.other.object.js"
             ],
             "settings": {
-                "foreground": "#e6d6ab"
+                "foreground": "#e6d6ab",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Javascript - Variable - Property(*)",
+            "scope": [
+                "support.variable.property.js"
+            ],
+            "settings": {
+                "foreground": "#d88fa8"
             }
         },
         {

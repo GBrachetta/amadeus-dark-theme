@@ -51,11 +51,6 @@
                 "label": "Amadeus Dark Pastel",
                 "uiTheme": "vs-dark",
                 "path": "./themes/amadeus-dark-theme-pastel.json"
-            },
-            {
-                "label": "Amadeus Dark Polar",
-                "uiTheme": "vs-dark",
-                "path": "./themes/amadeus-dark-theme-polar.json"
             }
         ]
     }

@@ -883,7 +883,8 @@
                 "variable.other.object.js"
             ],
             "settings": {
-                "foreground": "#e6d6ab"
+                "foreground": "#e6d6ab",
+                "fontStyle": "italic"
             }
         },
         {

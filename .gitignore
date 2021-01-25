@@ -1,3 +1,4 @@
 *.vsix
 .vscode/settings.json
 instructions.txt
+themes/amadeus-dark-color-themeBACKUP.json

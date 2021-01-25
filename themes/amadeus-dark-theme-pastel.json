@@ -330,6 +330,15 @@
             }
         },
         {
+            "name": "Javascript - Variable - Property(*)",
+            "scope": [
+                "support.variable.property.js"
+            ],
+            "settings": {
+                "foreground": "#d88fa8"
+            }
+        },
+        {
             "name": "Language methods",
             "scope": [
                 "variable.language"
