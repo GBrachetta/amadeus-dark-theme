@@ -71,3 +71,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.15
 
 - Tweaks to Javascript color syntax
+
+## 0.0.16
+
+- Fixed color syntax in js variables

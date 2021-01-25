@@ -205,6 +205,8 @@
         {
             "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
             "scope": [
+                "variable.other.readwrite.js.jsx", //(*)
+                "variable.other.readwrite.js", //(*)
                 "constant.numeric",
                 "constant.language",
                 "support.constant",
@@ -253,9 +255,9 @@
             "name": "Javascript - Class Name",
             "scope": [
                 "entity.name.type.class.js.jsx",
-                "entity.name.type.class.js",
-                "variable.other.readwrite.js.jsx",
-                "variable.other.readwrite.js"
+                "entity.name.type.class.js"
+                // "variable.other.readwrite.js.jsx",
+                // "variable.other.readwrite.js"
             ],
             "settings": {
                 "foreground": "#FFCB6B",
