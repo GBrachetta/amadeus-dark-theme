@@ -820,6 +820,16 @@
             }
         },
         {
+            "name": "Javascript - Default",
+            "scope": [
+                "keyword.control.default.js"
+            ],
+            "settings": {
+                "foreground": "#C792EA",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Javascript - Variable - Property(*)",
             "scope": [
                 "support.variable.property.js"

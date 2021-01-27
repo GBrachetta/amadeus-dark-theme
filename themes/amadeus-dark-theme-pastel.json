@@ -296,6 +296,16 @@
             }
         },
         {
+            "name": "Javascript - Default",
+            "scope": [
+                "keyword.control.default.js"
+            ],
+            "settings": {
+                "foreground": "#C792EA",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Entity Types",
             "scope": [
                 "support.type"
@@ -1201,7 +1211,17 @@
                 "meta.structure.dictionary.value.json.comments"
             ],
             "settings": {
-                "foreground": "#34d6c1"
+                "foreground": "#86c2df"
+            }
+        },
+        {
+            "name": "Javascript - Children",
+            "scope": [
+                "meta.jsx.children.js",
+                "meta.jsx.children.js.jsx"
+            ],
+            "settings": {
+                "foreground": "#d0d0d0"
             }
         }
     ]

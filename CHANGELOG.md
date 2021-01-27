@@ -75,3 +75,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.16
 
 - Fixed color syntax in js variables
+
+## 0.0.17
+
+- Small improvements in all three variants in JS syntax
+- Improved color of export keyword
+- changed color of JSON strings
